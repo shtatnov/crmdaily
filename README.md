@@ -1,0 +1,2 @@
+# crmdaily
+soft, docs, other
